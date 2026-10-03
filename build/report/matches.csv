@@ -1,0 +1,5 @@
+left_id,candidate_count,nearest_right_id,distance_arcsec,is_mutual
+ALPHA,2,R1,1.7293322932318334,true
+BETA,1,R3,0.44026654838792234,true
+GAMMA,1,R4,4.334974048274368,true
+LONELY,0,null,null,false

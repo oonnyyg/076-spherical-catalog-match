@@ -1,0 +1,13 @@
+{
+  "radius_arcsec": 5.0,
+  "left_columns": {
+    "id_column": "id",
+    "ra_column": "ra",
+    "dec_column": "dec"
+  },
+  "right_columns": {
+    "id_column": "name",
+    "ra_column": "raj2000",
+    "dec_column": "decj2000"
+  }
+}
